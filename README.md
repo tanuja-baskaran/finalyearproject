@@ -53,9 +53,4 @@ DiabetesGuard Pro is a comprehensive, AI-powered web application designed to hel
 - `models/`: Contains the pre-trained machine learning models (`.pkl` files) used for diabetes prediction.
 - `requirements.txt`: Lists all Python dependencies required to run the project.
 
-## 🤝 Contributing
 
-Feel free to fork this project, submit pull requests, or open an issue if you find any bugs or have suggestions for new features!
-
----
-*Built as a Final Year Project by Tanuja Baskaran.*
