@@ -1,0 +1,18 @@
+[
+    {
+        "age": 30,
+        "bmi": 25.0,
+        "glucose": null,
+        "risk_prob": 0.0,
+        "risk_label": "Low Risk",
+        "timestamp": "2025-12-27T11:38:53.401553"
+    },
+    {
+        "age": 30,
+        "bmi": 25.0,
+        "glucose": null,
+        "risk_prob": 0.16666666666666666,
+        "risk_label": "Low Risk",
+        "timestamp": "2025-12-27T11:39:55.771895"
+    }
+]
